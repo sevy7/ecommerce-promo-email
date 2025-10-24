@@ -24,6 +24,6 @@ Live Demo
 
 ---
  Preview
-![Email preview](preview.jpg)
+![Email preview](https://codepen.io/sevy7/full/RNrxqOL)
 
 
